@@ -10,8 +10,6 @@ This Java application demonstrates the use of the **Adapter Pattern** to seamles
 - [Classes](#classes)
 - [Adapter Pattern](#adapter-pattern)
 - [How it Works](#how-it-works)
-- [Contributors](#contributors)
-
 
 ## Introduction
 
@@ -63,6 +61,3 @@ The **Adapter Pattern** is used to make two incompatible interfaces work togethe
 
 5. The `View` can seamlessly show weather data from both sources using adapters, providing a consistent and unified presentation.
 
-## Contributors
-
-- [Ibrahim]
