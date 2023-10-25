@@ -11,7 +11,7 @@ This Java application demonstrates the use of the **Adapter Pattern** to seamles
 - [Adapter Pattern](#adapter-pattern)
 - [How it Works](#how-it-works)
 - [Contributors](#contributors)
-- [License](#license)
+
 
 ## Introduction
 
